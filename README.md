@@ -1,3 +1,3 @@
-# BELAJAR HTML BARENG buildwithangga.com
+# BELAJAR CSS BARENG buildwithangga.com
 
 ## By : Rahmat Rafli
