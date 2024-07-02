@@ -41,3 +41,28 @@ body {
   text-decoration: none;
   color: white;
 }
+
+.header .navigation li a.home {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.header .navigation li a.about {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.header .navigation li a.pricing {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.header .navigation li a.login {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.header .navigation li a:hover {
+  text-decoration: none;
+  color: rgb(205, 195, 195);
+}
