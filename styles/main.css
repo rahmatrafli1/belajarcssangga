@@ -19,6 +19,25 @@ body {
   float: left;
 }
 
+.header .logo a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
 .header .navigation {
   float: right;
+  margin-top: 40px;
+}
+
+.header .navigation li {
+  float: right;
+  margin-left: 20px;
+  display: block;
+  font-size: 18px;
+}
+
+.header .navigation li a {
+  text-decoration: none;
+  color: white;
 }
