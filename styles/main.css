@@ -1,3 +1,5 @@
-.fitur {
-  background: yellow;
+.header {
+  width: 100%;
+  background: gray;
+  overflow: hidden;
 }
