@@ -6,6 +6,19 @@ body {
   width: 100%;
   background: gray;
   overflow: hidden;
-  padding-left: 50px;
-  margin-bottom: 50px;
+}
+
+.container {
+  width: 70%;
+  overflow: hidden;
+  margin: auto;
+}
+
+.header .logo {
+  font-size: 32px;
+  float: left;
+}
+
+.header .navigation {
+  float: right;
 }
