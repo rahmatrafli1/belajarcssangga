@@ -124,3 +124,40 @@ body {
   color: blue;
   text-decoration: none;
 }
+
+.flash-sale {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid #224b9d;
+  padding: 50px;
+}
+
+.product {
+  margin-left: 24px;
+  float: left;
+}
+
+.product img {
+  width: 200px;
+}
+
+.sold-out {
+  opacity: 0.3;
+}
+
+.buy-now {
+  background: #249924;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.buy-now:hover {
+  opacity: 0.5;
+}
+
+.buy-now:active {
+  opacity: 0.8;
+}
