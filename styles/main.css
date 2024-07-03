@@ -5,6 +5,7 @@
 
 body {
   margin: 0;
+  font-family: Roboto;
 }
 
 .header {
@@ -20,9 +21,9 @@ body {
 }
 
 .header .logo {
-  font-size: 32px;
+  font-size: 30px;
   float: left;
-  font-family: Roboto;
+  font-family: "Poppins", sans-serif;
 }
 
 .header .logo a {
@@ -72,4 +73,16 @@ body {
 .header .navigation li a:hover {
   text-decoration: none;
   color: rgb(205, 195, 195);
+}
+
+.icon-class {
+  width: 150px;
+  height: 150px;
+  background-image: url("../images/20230208_202011.jpg");
+  background-size: cover;
+  border-radius: 50%;
+}
+
+.parent {
+  margin-top: 100px;
 }
